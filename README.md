@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## テスト駆動開発の勉強
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## 課題１
+- ある年に、もっとも勝利したピッチャーのplayer_idを配列で取得する、most_winnersメソッドを作成する
+- ケース
+  - 最多勝投手が1人
+  - 最多勝投手が複数にん
+  - 指定した年のデータが存在しない場合
